@@ -1,0 +1,8 @@
+{
+  "model": "cpatonn/Qwen3-Coder-30B-A3B-Instruct-AWQ-4bit",
+  "tensor_parallel_size": 2,
+  "gpu_memory_utilization": 0.9,
+  "enforce_eager": true,
+  "disable_log_stats": true,
+  "dtype" : "float16"
+}
